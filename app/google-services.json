@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "753671420406",
+    "firebase_url": "https://inventarioxyz-default-rtdb.firebaseio.com",
+    "project_id": "inventarioxyz",
+    "storage_bucket": "inventarioxyz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753671420406:android:150f06f4a77269396befd7",
+        "android_client_info": {
+          "package_name": "com.example.examennationaldiego"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7tp3K7oq6TyBf1dfo4NtHaMaGvF-mHpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
